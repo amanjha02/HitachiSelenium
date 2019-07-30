@@ -9,6 +9,9 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TC_Class1 {
+	/*
+	 * launch th application
+	 */
 	
 	 public static final WebDriver webDriver = new ChromeDriver();;	
 
